@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LittleSalmonRiverMtoBSRRB",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 323, "ID": 280, "YEAR_": 2020, "StartDate": "2020\/05\/18", "EndDate": "2020\/05\/18", "Species": "Chinook", "Run": "Spring", "STREAM": "Little Salmon River", "MFROM": 0, "LOWER_BOUN": "Mouth", "MTO": 1202, "UPPER_BOUN": "Big Salmon River Road Bridge", "Zone_Name": "Little Salmon River -Lower", "Zone_": 20, "Notes": null, "LengthKM": 1, "LengthMi": 0, "LLID": 1163132454170.0, "LLIDNum": null, "Shape_Leng": 1202.0869872799999 }, "geometry": { "type": "LineString", "coordinates": [ [ -116.314077489011737, 45.416698433188408 ], [ -116.314562003377361, 45.416650348893768 ], [ -116.315179095405199, 45.416582132925207 ], [ -116.315179223729587, 45.416487615074999 ], [ -116.317082924444023, 45.415807615456636 ], [ -116.319583865126205, 45.414888437839316 ], [ -116.322991751708486, 45.414134992244442 ], [ -116.324030375706272, 45.41378978772638 ], [ -116.325231389703404, 45.413149279794951 ], [ -116.32562203907338, 45.413033862216061 ], [ -116.326626676833669, 45.412328986063386 ], [ -116.327049125064065, 45.411889425047676 ], [ -116.327187054326814, 45.41167928107425 ] ] } }
+]
+}
